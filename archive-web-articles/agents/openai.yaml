@@ -1,0 +1,4 @@
+interface:
+  display_name: "Archive Web Articles"
+  short_description: "Archive articles with images, audio, and clean Markdown"
+  default_prompt: "Use $archive-web-articles to archive these article links as clean Markdown with local media."
